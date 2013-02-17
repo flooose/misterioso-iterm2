@@ -1,0 +1,5 @@
+h2. Misterioso Color Them
+
+My port of the emacs Misterioso color theme.
+
+For mistakes, misinterpretations, or suggestions pull requests and emails are welcome.
